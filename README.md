@@ -3,7 +3,7 @@ In this assignment I extracted data from The New York Times API and The Movie Dt
 I referenced in-class acitivities as well as the documentations for building both the NYT and TMDB urls.
 
 # Accessing NYT API
-I was provided with the base url and the querty parameters which I used to build my query url.
+I was provided with the base url and the query parameters which I used to build my query url.
 
 I followed the instruction given in the starter code file and on bootcamp spot to create a for loop for the results retrieved from NYT API. 
 - What I did was creat a loop through pages (0-19). 
